@@ -22,6 +22,7 @@ import Netlify from './netlify'
 import Okta from './okta'
 import Slack from './slack'
 import Spotify from './spotify'
+import Strava from './strava'
 import Twitch from './twitch'
 import Twitter from './twitter'
 import Yandex from './yandex'
@@ -51,6 +52,7 @@ export default {
   Okta,
   Slack,
   Spotify,
+  Strava,
   Twitter,
   Twitch,
   Yandex
