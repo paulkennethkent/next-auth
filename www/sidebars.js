@@ -45,6 +45,7 @@ module.exports = {
       'providers/okta',
       'providers/slack',
       'providers/spotify',
+      'proivders/strava',
       'providers/twitch',
       'providers/twitter',
       'providers/yandex'
